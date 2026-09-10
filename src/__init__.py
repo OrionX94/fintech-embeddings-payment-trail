@@ -1,0 +1,1 @@
+"""Fintech embedding example package."""
